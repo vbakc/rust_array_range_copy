@@ -1,0 +1,10 @@
+[package]
+name = "array_range_copy"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "Readme.md"
+repository = "https://github.com/vbakc/rust_array_range_copy"
+description = "Crate that allows to set range of values in Rust's fixed size arrays"
+
+[dependencies]
